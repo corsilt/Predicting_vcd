@@ -2,7 +2,8 @@
 This project compares traditional cell doubling time vs some supervised machine learning methods.
 <br>
 View the notebook via the link below to render the html and interactive plots.
-<br<br>
-**note-html was only included intentionally to limit access to data**
+<br>
+<br>
+**note-html was only included intentionally to limit access to data. Notebook isn't neccesarily as tidy as it should be either**
 
 https://htmlpreview.github.io/?https://github.com/corsilt/Predicting_vcd/blob/main/model_proj_nova_pa7.html
